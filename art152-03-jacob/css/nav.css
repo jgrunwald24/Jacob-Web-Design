@@ -1,0 +1,32 @@
+nav ul {
+background-color: rgb(61, 184, 179);
+list-style-type: none;
+margin: 0;
+padding: 14px;
+}
+
+nav li {
+  display: inline;
+  font-family: 'Roboto 27px', sans-serif;
+}
+
+nav a:link, nav a:visited {
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border-radius: 3px;
+  text-decoration: none;
+  padding: 2px, 6px;
+  margin: 0;
+  font-size: 0.9em;
+  border: 1px solid white;
+}
+
+nav a:hover {
+  background-color: rgb(173, 92, 29);
+  color: white;
+}
+
+nav a.current {
+  background-color: rgb(217, 147, 26);
+  color: white;
+}

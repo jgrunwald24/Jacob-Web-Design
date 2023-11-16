@@ -1,0 +1,82 @@
+body {
+  background-color: rgb(246, 226, 167);
+}
+
+h1 {
+  color: rgb(81, 95, 144);
+  font-family: 'Arvo', serif;
+  font-weight: 700;
+  font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(81, 95, 144);
+  font-family: 'Arvo', serif;
+  text-align: center;
+}
+
+h3 {
+  color: rgb(81, 95, 144);
+  font-family: 'Arvo', serif;
+}
+
+p{
+  color: rgb(59, 65, 65);
+  font-family: 'Arvo', serif;
+}
+
+figcaption {
+  color: rgb(59, 65, 65);
+  font-family: 'Arvo', serif;
+  font-weight: 600;
+  text-align: left;
+  font-size: .8em;
+}
+
+li {
+  color: rgb(59, 65, 65);
+  font-family: 'Arvo', serif;
+}
+
+.topbutton {
+  background-color: rgb(81, 95, 144);
+  color: white;
+}
+
+.pic2 {
+  margin-top: 20px;
+}
+
+.top {
+  border-top: 1px solid rgb(159, 185, 186);
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.top2 {
+    border-top: 1px solid rgb(159, 185, 186);
+}
+
+/* ///////////// nav styles ////////////// */
+nav {
+  margin: 6px auto;
+  text-align: center;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 18px;
+  font-size: 0.8em;
+  font-weight: 600;
+  /* color: rgb(59, 65, 65); */
+  font-family: 'Arvo', serif;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+nav a:link, nav a:visited {
+  color: rgb(59, 65, 65);
+}

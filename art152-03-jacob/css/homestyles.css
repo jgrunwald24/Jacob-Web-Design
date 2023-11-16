@@ -1,0 +1,18 @@
+main {
+  width: 1000px;
+  margin: 20px auto;
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Press Start 2P', cursive;
+}
+h1 {
+  font-size: 3.4em;
+  text-align: center;
+}
+h2 {
+  font-size: 2em;
+  text-align: center;
+}
+p, li, figcaption {
+font-family: 'Roboto', sans-serif;
+}

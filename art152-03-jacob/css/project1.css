@@ -1,0 +1,75 @@
+/* font-family: 'Nunito', sans-serif;
+font-family: 'Work Sans', sans-serif; */
+h1 {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+  font-size: 7em;
+  font-weight: 600;
+  color: rgb(176, 114, 40);
+  margin: auto;
+}
+
+h2, h3 {
+  font-family: 'Nunito', sans-serif;
+  color: rgb(198, 97, 83);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+a {
+  font-size: 1.4em;
+  font-weight: 600;
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 34, 15);
+}
+
+p {
+  font-family: 'Work Sans', sans-serif;
+}
+
+figcaption {
+  font-family: 'Nunito', sans-serif;
+  color: rgb(61, 34, 15);
+  font-weight: 600;
+}
+
+.ptext {
+  font-size: 1.3em;
+}
+
+.htext {
+  font-size: 1.4em;
+  font-weight: 400;
+}
+
+.gtext {
+  text-align: left;
+  margin-left: 70px;
+  margin-right: 60px;
+}
+
+.stext {
+  text-align: center;
+}
+/* ----------- NAV STYLES ----------- */
+nav {
+  text-align: center;
+  margin: 6px auto;
+  background-color: rgb(176, 114, 40);
+}
+
+nav li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 1px;
+  font-size: 1.4em;
+  font-weight: 600;
+  font-family: 'Nunito', sans-serif;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+nav a:link, nav a:visited {
+  color: rgb(61, 34, 15);
+}
